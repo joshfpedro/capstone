@@ -44,11 +44,11 @@ Our analysis utilizes a dataset containing renewable energy production data and 
 | Variable | Description | Type |
 |----------|-------------|------|
 | date | Date of observation | Date |
-| SUN | Solar energy production | Float |
-| WND | Wind energy production | Float |
-| temp | Average temperature | Float |
-| wind_speed | Average wind speed | Float |
-| precipitation | Total precipitation | Float |
+| SUN | Solar energy production in BTU | Float |
+| WND | Wind energy production in BTU | Float |
+| temp | Average temperature in °C | Float |
+| wind_speed | Average wind speed in km/h | Float |
+| precipitation | Total precipitation in mm | Float |
 
 This dataset allows for a comprehensive analysis of the factors influencing renewable energy production, enabling the development and comparison of various forecasting models.
 
