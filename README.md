@@ -44,8 +44,8 @@ Our analysis utilizes a dataset containing renewable energy production data and 
 | Variable | Description | Type |
 |----------|-------------|------|
 | date | Date of observation | Date |
-| SUN | Solar energy production in BTU | Float |
-| WND | Wind energy production in BTU | Float |
+| SUN | Solar energy production in trillion BTU | Float |
+| WND | Wind energy production in trillion BTU | Float |
 | temp | Average temperature in °C | Float |
 | wind_speed | Average wind speed in km/h | Float |
 | precipitation | Total precipitation in mm | Float |
