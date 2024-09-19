@@ -1,4 +1,4 @@
-# GreenSight: AI-Driven Renewable Energy Potential Forecasting and Site Optimization
+# GreenSight: AI for Renewable Energy Forecasting
 
 ## Project Overview
 
