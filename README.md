@@ -1,9 +1,9 @@
-# GreenSight: AI-Driven Renewable Energy Potential Forecasting and Site Optimization
+# GreenSight: AI for Renewable Energy Forecasting
 
 ## Project Overview
 
 ### Problem Area
-This project addresses the challenge of accurately forecasting renewable energy production and optimizing site selection, specifically focusing on solar and wind energy. The key issues include:
+This project addresses the challenge of accurately forecasting renewable energy production and optimizing site selection for maximum renewable energy potential., specifically focusing on solar and wind energy. The key issues include:
 - Predicting energy production levels based on weather conditions
 - Understanding the variability and intermittency of renewable energy sources
 - Improving grid management and energy distribution planning
